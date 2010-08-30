@@ -1,0 +1,8 @@
+An attempt to understand a bug (I think) in Node.js
+
+To reproduce:
+1. make
+2. ./run
+3. node run.js
+
+You'll want to look for some orphaned './die' processes when you're done too.
